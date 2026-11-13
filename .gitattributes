@@ -1,0 +1,6 @@
+scripts/setup text eol=lf
+scripts/start text eol=lf
+scripts/sync text eol=lf
+scripts/docker text eol=lf
+scripts/upgrade-dev text eol=lf
+scripts/upgrade-version text eol=lf
