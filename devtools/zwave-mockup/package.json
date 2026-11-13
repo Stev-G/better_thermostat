@@ -1,0 +1,13 @@
+{
+  "name": "better-thermostat-zwave-mockup",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Z-Wave JS mock network for Better Thermostat development",
+  "scripts": {
+    "start": "mock-server --config ./mocks --interface 0.0.0.0 --port 5555",
+    "check": "node ./check-mock.mjs"
+  },
+  "devDependencies": {
+    "zwave-js": "15.31.2"
+  }
+}

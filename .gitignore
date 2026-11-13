@@ -63,6 +63,8 @@ Desktop.ini
 # Home Assistant
 custom_components/hacs
 .haconfig
+.zwave-js-ui-store/
+CODEX_HANDOFF.md
 .HA_VERSION
 home-assistant.log
 home-assistant_v2.db
